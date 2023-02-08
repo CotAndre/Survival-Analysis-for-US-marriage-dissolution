@@ -9,4 +9,4 @@ The reasons why we are interested in performing a survival analysis can be diffe
 
 In this work, i performed a survival analysis on US couples marriage dissolution, with the aim to understand in which cases there's a high probability to failure (divorce), and to discover which covariates are more correlated to the target variable.
 
-Data can be found here:
+Data can be found here: https://grodri.github.io/glms/datasets/#divorce
